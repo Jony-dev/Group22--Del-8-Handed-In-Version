@@ -1,0 +1,9 @@
+[10-Sep-2020 23:27:34 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_query() on boolean in /home/edumarxc/bmwBackend.edumarx.co.za/Repository/UserAccount.php:446
+Stack trace:
+#0 /home/edumarxc/bmwBackend.edumarx.co.za/API/User.php(443): getAllEmployees()
+#1 /home/edumarxc/bmwBackend.edumarx.co.za/API/User.php(41): User->getEmployees(Object(stdClass))
+#2 /home/edumarxc/bmwBackend.edumarx.co.za/API/User.php(83): User->Variable(Object(stdClass))
+#3 /home/edumarxc/bmwBackend.edumarx.co.za/API/router.php(91): User->handle_Request()
+#4 /home/edumarxc/bmwBackend.edumarx.co.za/API/index.php(69): Router->route()
+#5 {main}
+  thrown in /home/edumarxc/bmwBackend.edumarx.co.za/Repository/UserAccount.php on line 446

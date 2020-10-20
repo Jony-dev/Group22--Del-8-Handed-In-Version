@@ -1,0 +1,12 @@
+[20-Oct-2020 02:50:13 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/edumarxc/bmwBackend.edumarx.co.za/Repository/cronJob.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edumarxc/bmwBackend.edumarx.co.za/Repository/cronJob.php on line 11
+[20-Oct-2020 02:50:47 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/edumarxc/bmwBackend.edumarx.co.za/Repository/cronJob.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edumarxc/bmwBackend.edumarx.co.za/Repository/cronJob.php on line 14
+[20-Oct-2020 02:51:35 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/edumarxc/bmwBackend.edumarx.co.za/Repository/cronJob.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edumarxc/bmwBackend.edumarx.co.za/Repository/cronJob.php on line 14
